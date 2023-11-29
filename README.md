@@ -1,3 +1,4 @@
+# Created for minor project (semester 5th) by SHRESHTH SAHAY
 # Hostel_Management_System
 
 ## Features
