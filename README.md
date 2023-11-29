@@ -1,4 +1,3 @@
-# Created for minor project (semester 5th) by SHRESHTH SAHAY
 # Hostel_Management_System
 
 ## Features
@@ -53,3 +52,5 @@
 ![image](https://user-images.githubusercontent.com/97080055/235763542-967642b5-a197-4001-958f-1b433e8cabd4.png)
 
 ![image](https://user-images.githubusercontent.com/97080055/235763584-a54054ec-4cfc-469e-85c1-7e2d020a728b.png)
+
+### Created for minor project (semester 5th) by SHRESHTH SAHAY
