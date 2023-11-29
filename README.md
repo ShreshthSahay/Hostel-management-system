@@ -1,7 +1,29 @@
 # Hostel_Management_System
 
+## Features
+<ul>
+        <li><strong>Multiple user types</strong>
+            <ul>
+                <li>Admin</li>
+                <li>Warden</li>
+                <li>Students</li>
+            </ul>
+        </li>
+        <li><strong>Messaging System</strong></li>
+        <li><strong>Notification board by post</strong></li>
+        <li><strong>Developed in PHP Data Objects</strong></li>
+        <li><strong>Password hashed with SHA-256</strong></li>
+        <li><strong>User Profiles</strong></li>
+        <li><strong>Keep track of room occupants</strong></li>
+        <li><strong>Room &amp; Block Management</strong></li>
+        <li><strong>Payment Tracking</strong></li>
+    </ul>
 
-### Steps to run this PHP Program:-
+
+
+
+
+## Steps to run this PHP Program:-
 * First of all, open the Apache Friends website and download XAMPP for Windows, and install it.
 * <p align="justify"> Start the XAMPP Program Control Panel. Click on the “Start”  button next to the “Apache” to start your Apache Web Server. Also, start “MySQL” if your PHP programs depend on a MySQL database to run.</p>
 
